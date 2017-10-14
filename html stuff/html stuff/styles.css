@@ -1,0 +1,22 @@
+h1{color:red}
+body {font-family: 'Playfair Display SC', serif;}
+
+<div class="picture">
+  <img src="Friends1.jpg">
+</div>
+
+h2 { border-left: 12px red }
+
+
+
+
+
+
+	   
+body { background: lightblue;
+       color: red;
+       font-size: 14pt; }
+	   
+	nav li { padding: 7px;
+	    margin: 7px;
+	    background: white }
